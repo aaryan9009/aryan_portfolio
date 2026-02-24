@@ -16,7 +16,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
-    }
+    },
     {
         id: 3,
         name: 'Cafe Management Website',
