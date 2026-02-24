@@ -17,6 +17,15 @@ export const projectsData = [
         code: '',
         demo: '',
     }
+    {
+        id: 3,
+        name: 'Cafe Management Website',
+        description: 'Developed a complete Cafe Management system to manage menu items, customer orders, billing, and inventory. The website enables staff to efficiently handle orders, update menu details & monitor daily sales through an dashboard.',
+        tools: ['Next.js', 'React', 'Tailwind', 'TypeScript', 'Mongodb atlas'],
+        role: 'Full Stack Developer',
+        code: '',
+        demo: '',
+}
 ];
 
 
