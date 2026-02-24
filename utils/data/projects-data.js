@@ -25,7 +25,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
-}
+    }
 ];
 
 
